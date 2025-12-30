@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini-Powered Document Management System",
+  "description": "A high-performance React-based DMS featuring AI-assisted document tagging, semantic search, version control, and robust role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
