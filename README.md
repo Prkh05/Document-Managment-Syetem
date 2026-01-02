@@ -90,4 +90,13 @@ When a file is uploaded, the system sends the filename and content snippet to `g
 ### Semantic Search
 The search bar uses the `semanticSearch` service to interpret user intent. Instead of simple string matching, it evaluates the relevance of the query against the entire document library's metadata.
 
+## 📷 ScreenShots
+<img width="1913" height="877" alt="Screenshot 2025-12-30 105917" src="https://github.com/user-attachments/assets/33732e18-c0c7-43c8-9a10-3855cf431a8a" />
+<img width="1919" height="859" alt="Screenshot 2025-12-30 105938" src="https://github.com/user-attachments/assets/75ce06da-508b-4563-bc9d-b23256d772ad" />
+<img width="1919" height="928" alt="Screenshot 2025-12-30 105955" src="https://github.com/user-attachments/assets/de9a668c-0bad-4052-87b9-5fd8408a675f" />
+<img width="1919" height="868" alt="Screenshot 2025-12-30 110032" src="https://github.com/user-attachments/assets/6a8f690b-9b51-4f1c-932e-b858f108aa55" />
+<img width="1919" height="860" alt="Screenshot 2025-12-30 110053" src="https://github.com/user-attachments/assets/408a22f7-11c9-4e17-b255-9aa85f54fe2d" />
+
+
+
 ---
